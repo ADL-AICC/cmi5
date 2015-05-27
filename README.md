@@ -1,4 +1,4 @@
-CMI-5
+cmi5
 =====
 
 CMI-5 Specification (an XAPI Profile for LMS systems)
